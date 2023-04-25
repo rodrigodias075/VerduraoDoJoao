@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 
 namespace VerduraoDoJoao.Melanciometro
@@ -97,7 +98,7 @@ namespace VerduraoDoJoao.Melanciometro
                                                     Console.WriteLine("Melancia Comum adicionada ao carrinho.");
                                                     break;
                                                 case 2:
-                                                    total += 8.50;
+                                                    total += 8.54;
                                                     carrinho.Add("Melancia Baby");
                                                     qtdMelanciaBaby++;
                                                     Console.WriteLine("Melancia Baby adicionada ao carrinho.");
